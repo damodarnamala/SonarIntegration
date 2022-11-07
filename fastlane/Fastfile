@@ -1,0 +1,45 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Description of what the lane does"
+  lane :custom_lane do
+    # add actions here: https://docs.fastlane.tools/actions
+  end
+
+  lane :lizard_report do
+     lizard(source_folder: './CleanSecond/Source/', 
+      export_type: "html", 
+      report_file: './Reports/Lizard/Report.html')
+  end
+
+  lane :makelint do
+    swiftlint(
+      mode: :lint,      # SwiftLint mode: :lint (default) or :autocorrect
+      path: './CleanSecond/Source/*/*.swift',
+      config_file: './.swiftlint.yml',     # The path of the configuration file (optional)
+      reporter:'html',
+      executable:'/usr/local/bin/swiftlint',
+      raise_if_swiftlint_error: true,      # Allow fastlane to raise an error if swiftlint fails
+      ignore_exit_status: false ,   # Allow fastlane to continue even if SwiftLint returns a non-zero exit status
+      strict: true,
+      output_file: './Reports/SwiftLint/Report.html',
+
+    )
+  
+ end
+end

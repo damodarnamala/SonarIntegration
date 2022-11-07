@@ -8,14 +8,25 @@
 import SwiftUI
 
 struct ContentView: View {
+    @ObservedObject var viewModel = PostViewModel()
+    
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            if viewModel.state.isLoading == true {
+                Text("Loading..")
+            } else {
+                List {
+                    ForEach(viewModel.state.users, id:\.self) { user in
+                        Text(user)
+                    }
+                }
+            }
+        }.onAppear {
+            ///
+            /// Fething users on view loaded
+            ///
+            viewModel.fetchUsers()
         }
-        .padding()
     }
 }
 

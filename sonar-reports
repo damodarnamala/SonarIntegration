@@ -1,0 +1,30 @@
+================================================
+  NLOC    CCN   token  PARAM  length  location  
+------------------------------------------------
+      15      2     88      2      16 init@16-31@./CleanSecond/Source/Application/PostViewModel.swift
+       5      1     20      0      23 set@12-34@./CleanSecond/Source/Application/PostViewModel.swift
+       2      1      6      0       3 findUsers@36-38@./CleanSecond/Source/Application/PostViewModel.swift
+      12      3     69      0      13 init@20-32@./CleanSecond/Source/Domain/UserUseCaseHandler.swift
+       5      1     36      2      17 init@17-33@./CleanSecond/Source/Domain/UserUseCaseHandler.swift
+       3      1     13      0       3 fetchUsers@42-44@./CleanSecond/Source/Domain/UserUseCaseHandler.swift
+       3      1     17      0       3 fetchUsers@48-50@./CleanSecond/Source/Domain/UserUseCaseHandler.swift
+5 file analyzed.
+==============================================================
+NLOC    Avg.NLOC  AvgCCN  Avg.token  function_cnt    file
+--------------------------------------------------------------
+     24       7.3     1.3       38.0         3     ./CleanSecond/Source/Application/PostViewModel.swift
+      9       0.0     0.0        0.0         0     ./CleanSecond/Source/Domain/UserEvents.swift
+      4       0.0     0.0        0.0         0     ./CleanSecond/Source/Domain/UsersUseCase.swift
+     39       5.8     1.5       33.8         4     ./CleanSecond/Source/Domain/UserUseCaseHandler.swift
+      5       0.0     0.0        0.0         0     ./CleanSecond/Source/Domain/UserState.swift
+
+===============================================================================================================
+No thresholds exceeded (cyclomatic_complexity > 15 or length > 1000 or nloc > 1000000 or parameter_count > 100)
+==========================================================================================
+Total nloc   Avg.NLOC  AvgCCN  Avg.token   Fun Cnt  Warning cnt   Fun Rt   nloc Rt
+------------------------------------------------------------------------------------------
+        81       6.4     1.4       35.6        7            0      0.00    0.00
+Duplicates
+===================================
+Total duplicate rate: 0.00%
+Total unique rate: 100.00%
