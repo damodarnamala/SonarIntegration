@@ -1,5 +1,5 @@
 Analyzing 16 files:
-S.SS.SSSSS......
+S.SS.SSSS..S....
 
 ********** Source/Application/PostViewModel.swift **********
 /Users/dnamala/Desktop/CleanSecond/Source/Application/PostViewModel.swift:7:4: warning: [trailing-whitespace] Line should not have any trailing whitespace

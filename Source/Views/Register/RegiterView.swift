@@ -11,7 +11,7 @@ import SwiftUI
 struct RegiterView: View {
     @State var username = ""
     @State var password = ""
-    
+    @State var gotoPost = false
     var body: some View {
         VStack {
             Spacer()
@@ -20,7 +20,10 @@ struct RegiterView: View {
             InputField(placeholder: "Password", text: $password)
             
             PrimaryButton(title: "Register") {
-                
+                let login = DatabaseHandler.shared
+               _ =  login.register(with: username, pasword: password)
+                gotoPost = true
+                login.setUserLoggedIn()
             }
             Spacer()
         }

@@ -16,7 +16,7 @@ struct DatabaseHandler {
     
     private var defaults = UserDefaults.standard
     
-    func checkIfLoggedIn( with username: String) -> Bool {
+    func checkIfLoggedIn() -> Bool {
         return defaults.bool(forKey: Default.Constants.isLoggedIn)
     }
     
