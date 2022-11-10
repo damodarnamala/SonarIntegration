@@ -15,26 +15,34 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 
 ## iOS
 
-### ios custom_lane
-
-```sh
-[bundle exec] fastlane ios custom_lane
-```
-
-Description of what the lane does
-
 ### ios lizard_report
 
 ```sh
 [bundle exec] fastlane ios lizard_report
 ```
 
+Description of what the lane does
 
-
-### ios makelint
+### ios runlint
 
 ```sh
-[bundle exec] fastlane ios makelint
+[bundle exec] fastlane ios runlint
+```
+
+
+
+### ios runXCov
+
+```sh
+[bundle exec] fastlane ios runXCov
+```
+
+
+
+### ios runMetrics
+
+```sh
+[bundle exec] fastlane ios runMetrics
 ```
 
 

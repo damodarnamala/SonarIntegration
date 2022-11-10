@@ -1,0 +1,241 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="https://raw.githubusercontent.com/terryyin/lizard/master/lizard.xsl"?>
+<cppncss>
+	<measure type="Function">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+		</labels>
+		<item name="init(...) at Source/Application/PostViewModel.swift:9">
+			<value>1</value>
+			<value>13</value>
+			<value>2</value>
+		</item>
+		<item name="set(...) at Source/Application/PostViewModel.swift:5">
+			<value>2</value>
+			<value>5</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="9.0"/>
+		<average label="CCN" value="1.5"/>
+		<average label="NCSS" value="9.0"/>
+		<average label="CCN" value="1.5"/>
+		<average label="NCSS" value="9.0"/>
+		<average label="CCN" value="1.5"/>
+		<average label="NCSS" value="9.0"/>
+		<average label="CCN" value="1.5"/>
+		<average label="NCSS" value="9.0"/>
+		<average label="CCN" value="1.5"/>
+		<average label="NCSS" value="9.0"/>
+		<average label="CCN" value="1.5"/>
+		<average label="NCSS" value="9.0"/>
+		<average label="CCN" value="1.5"/>
+		<average label="NCSS" value="9.0"/>
+		<average label="CCN" value="1.5"/>
+		<item name="reset(...) at Source/Domain/Login/LoginViewModel.swift:15">
+			<value>3</value>
+			<value>5</value>
+			<value>1</value>
+		</item>
+		<item name="init(...) at Source/Domain/Login/LoginViewModel.swift:28">
+			<value>4</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="perform(...) at Source/Domain/Login/LoginViewModel.swift:32">
+			<value>5</value>
+			<value>14</value>
+			<value>3</value>
+		</item>
+		<average label="NCSS" value="8.0"/>
+		<average label="CCN" value="1.6"/>
+		<average label="NCSS" value="8.0"/>
+		<average label="CCN" value="1.6"/>
+		<average label="NCSS" value="8.0"/>
+		<average label="CCN" value="1.6"/>
+		<item name="request(...) at Source/Domain/Login/LoginUseCaseHandler.swift:4">
+			<value>6</value>
+			<value>7</value>
+			<value>2</value>
+		</item>
+		<item name="init(...) at Source/Domain/Login/LoginUseCaseHandler.swift:15">
+			<value>7</value>
+			<value>1</value>
+			<value>1</value>
+		</item>
+		<item name="checkIfLoggedIn(...) at Source/Domain/Login/LoginUseCaseHandler.swift:19">
+			<value>8</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="setUserLoggedIn(...) at Source/Domain/Login/LoginUseCaseHandler.swift:23">
+			<value>9</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="set(...) at Source/Domain/Login/LoginUseCaseHandler.swift:31">
+			<value>10</value>
+			<value>10</value>
+			<value>1</value>
+		</item>
+		<item name="help(...) at Source/Domain/Login/LoginUseCaseHandler.swift:43">
+			<value>11</value>
+			<value>4</value>
+			<value>1</value>
+		</item>
+		<average label="NCSS" value="6.181818181818182"/>
+		<average label="CCN" value="1.3636363636363635"/>
+		<item name="init(...) at Source/Domain/PostUseCaseHandler.swift:13">
+			<value>12</value>
+			<value>12</value>
+			<value>3</value>
+		</item>
+		<item name="init(...) at Source/Domain/PostUseCaseHandler.swift:10">
+			<value>13</value>
+			<value>5</value>
+			<value>1</value>
+		</item>
+		<item name="fetchPosts(...) at Source/Domain/PostUseCaseHandler.swift:34">
+			<value>14</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="fetchPosts(...) at Source/Domain/PostUseCaseHandler.swift:40">
+			<value>15</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="init(...) at Source/Domain/PostUseCaseHandler.swift:55">
+			<value>16</value>
+			<value>3</value>
+			<value>1</value>
+		</item>
+		<item name="request(...) at Source/Domain/PostUseCaseHandler.swift:59">
+			<value>17</value>
+			<value>8</value>
+			<value>2</value>
+		</item>
+		<average label="NCSS" value="6.0"/>
+		<average label="CCN" value="1.411764705882353"/>
+		<average label="NCSS" value="6.0"/>
+		<average label="CCN" value="1.411764705882353"/>
+		<average label="NCSS" value="6.0"/>
+		<average label="CCN" value="1.411764705882353"/>
+		<average label="NCSS" value="6.0"/>
+		<average label="CCN" value="1.411764705882353"/>
+	</measure>
+	<measure type="File">
+		<labels>
+			<label>Nr.</label>
+			<label>NCSS</label>
+			<label>CCN</label>
+			<label>Functions</label>
+		</labels>
+		<item name="Source/Application/PostViewModel.swift">
+			<value>1</value>
+			<value>20</value>
+			<value>3</value>
+			<value>2</value>
+		</item>
+		<item name="Source/Views/Common/InputField.swift">
+			<value>2</value>
+			<value>22</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Views/Common/BackButton.swift">
+			<value>3</value>
+			<value>17</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Views/Common/PrimaryButton.swift">
+			<value>4</value>
+			<value>27</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Views/Common/SecondaryButton.swift">
+			<value>5</value>
+			<value>23</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Views/Register/RegiterView.swift">
+			<value>6</value>
+			<value>26</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Views/LoginHelp/LoginHelpView.swift">
+			<value>7</value>
+			<value>25</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Views/Login/LoginView.swift">
+			<value>8</value>
+			<value>46</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Domain/Login/LoginViewModel.swift">
+			<value>9</value>
+			<value>32</value>
+			<value>5</value>
+			<value>3</value>
+		</item>
+		<item name="Source/Domain/Login/LoginEvent.swift">
+			<value>10</value>
+			<value>9</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Domain/Login/LoginUseCase.swift">
+			<value>11</value>
+			<value>4</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Domain/Login/LoginUseCaseHandler.swift">
+			<value>12</value>
+			<value>47</value>
+			<value>7</value>
+			<value>6</value>
+		</item>
+		<item name="Source/Domain/PostUseCaseHandler.swift">
+			<value>13</value>
+			<value>53</value>
+			<value>9</value>
+			<value>6</value>
+		</item>
+		<item name="Source/Domain/PostsUseCase.swift">
+			<value>14</value>
+			<value>4</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Domain/PostEvents.swift">
+			<value>15</value>
+			<value>9</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<item name="Source/Domain/PostsState.swift">
+			<value>16</value>
+			<value>5</value>
+			<value>0</value>
+			<value>0</value>
+		</item>
+		<average label="NCSS" value="23.0625"/>
+		<average label="CCN" value="1.5"/>
+		<average label="Functions" value="1.0625"/>
+		<sum label="NCSS" value="369"/>
+		<sum label="CCN" value="24"/>
+		<sum label="Functions" value="17"/>
+		<average label="NCSS" value="6.0"/>
+		<average label="CCN" value="1.411764705882353"/>
+	</measure>
+</cppncss>
+

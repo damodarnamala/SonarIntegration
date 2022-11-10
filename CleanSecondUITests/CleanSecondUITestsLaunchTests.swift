@@ -1,9 +1,3 @@
-//
-//  CleanSecondUITestsLaunchTests.swift
-//  CleanSecondUITests
-//
-//  Created by Damodar Namala on 07/11/22.
-//
 
 import XCTest
 

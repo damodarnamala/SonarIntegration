@@ -1,0 +1,87 @@
+Analyzing 16 files:
+S.SS.SSSSS......
+
+********** Source/Application/PostViewModel.swift **********
+/Users/dnamala/Desktop/CleanSecond/Source/Application/PostViewModel.swift:7:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Application/PostViewModel.swift:12:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Application/PostViewModel.swift:22:6: warning: [function-whitespace] Function should have at least one blank line after it
+
+********** Source/Domain/Login/LoginEvent.swift **********
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginEvent.swift:1:1: warning: [leading-whitespace] File should not start with whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginEvent.swift:9:38: warning: [colon-whitespace] Colon at column 38 should have exactly one space after it
+
+********** Source/Domain/Login/LoginUseCase.swift **********
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCase.swift:3:18: warning: [parenthesis-whitespace] Parentheses content should not start with whitespace
+
+********** Source/Domain/Login/LoginUseCaseHandler.swift **********
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:4:5: warning: [function-whitespace] Function should have at least one blank line before it
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:10:6: warning: [function-whitespace] Function should have at least one blank line after it
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:13:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:16:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:18:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:19:26: warning: [parenthesis-whitespace] Parentheses content should not start with whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:22:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:26:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:27:16: warning: [parenthesis-whitespace] Parentheses content should not start with whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:28:13: warning: [constant-naming] Constant should be lowerCamelCase
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:29:13: warning: [constant-naming] Constant should be lowerCamelCase
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:36:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:37:19: warning: [parenthesis-whitespace] Parentheses content should not start with whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:42:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:44:13: warning: [constant-naming] Constant should be lowerCamelCase
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:46:6: warning: [function-whitespace] Function should have at least one blank line after it
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:56: warning: [terminating-newline] File should terminate with exactly one newline character ('\n')
+
+********** Source/Domain/Login/LoginViewModel.swift **********
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginViewModel.swift:14:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginViewModel.swift:19:6: warning: [function-whitespace] Function should have at least one blank line after it
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginViewModel.swift:24:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginViewModel.swift:26:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginViewModel.swift:27:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginViewModel.swift:31:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginViewModel.swift:45:6: warning: [function-whitespace] Function should have at least one blank line after it
+
+********** Source/Domain/PostEvents.swift **********
+Source/Domain/PostEvents.swift could not be parsed successfully, skipping...
+
+********** Source/Domain/PostUseCaseHandler.swift **********
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:4:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:7:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:9:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:15:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:25:6: warning: [function-whitespace] Function should have at least one blank line after it
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:34:9: warning: [function-whitespace] Function should have at least one blank line before it
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:36:10: warning: [function-whitespace] Function should have at least one blank line after it
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:38:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:40:9: warning: [function-whitespace] Function should have at least one blank line before it
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:42:10: warning: [function-whitespace] Function should have at least one blank line after it
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:54:3: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:58:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift:66:6: warning: [function-whitespace] Function should have at least one blank line after it
+
+********** Source/Domain/PostsUseCase.swift **********
+/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostsUseCase.swift:4:18: warning: [parenthesis-whitespace] Parentheses content should not start with whitespace
+
+********** Source/Views/Common/BackButton.swift **********
+Source/Views/Common/BackButton.swift could not be parsed successfully, skipping...
+
+********** Source/Views/Common/InputField.swift **********
+Source/Views/Common/InputField.swift could not be parsed successfully, skipping...
+
+********** Source/Views/Common/PrimaryButton.swift **********
+Source/Views/Common/PrimaryButton.swift could not be parsed successfully, skipping...
+
+********** Source/Views/Common/SecondaryButton.swift **********
+Source/Views/Common/SecondaryButton.swift could not be parsed successfully, skipping...
+
+********** Source/Views/Login/LoginView.swift **********
+Source/Views/Login/LoginView.swift could not be parsed successfully, skipping...
+
+********** Source/Views/LoginHelp/LoginHelpView.swift **********
+Source/Views/LoginHelp/LoginHelpView.swift could not be parsed successfully, skipping...
+
+********** Source/Views/Register/RegiterView.swift **********
+Source/Views/Register/RegiterView.swift could not be parsed successfully, skipping...
+
+Analyzed 8 files, skipped 8 files, and detected 44 violations (0 errors, 44 warnings).
+
