@@ -1,5 +1,5 @@
 Analyzing 16 files:
-S.SS.SSSS..S....
+S.SS.SSSSS......
 
 ********** Source/Application/PostViewModel.swift **********
 /Users/dnamala/Desktop/CleanSecond/Source/Application/PostViewModel.swift:7:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
@@ -19,7 +19,6 @@ S.SS.SSSS..S....
 /Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:13:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
 /Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:16:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
 /Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:18:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
-/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:19:26: warning: [parenthesis-whitespace] Parentheses content should not start with whitespace
 /Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:22:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
 /Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:26:4: warning: [trailing-whitespace] Line should not have any trailing whitespace
 /Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift:27:16: warning: [parenthesis-whitespace] Parentheses content should not start with whitespace
@@ -83,5 +82,5 @@ Source/Views/LoginHelp/LoginHelpView.swift could not be parsed successfully, ski
 ********** Source/Views/Register/RegiterView.swift **********
 Source/Views/Register/RegiterView.swift could not be parsed successfully, skipping...
 
-Analyzed 8 files, skipped 8 files, and detected 44 violations (0 errors, 44 warnings).
+Analyzed 8 files, skipped 8 files, and detected 43 violations (0 errors, 43 warnings).
 

@@ -164,7 +164,7 @@
 		</item>
 		<item name="Source/Views/Register/RegiterView.swift">
 			<value>6</value>
-			<value>26</value>
+			<value>31</value>
 			<value>0</value>
 			<value>0</value>
 		</item>
@@ -228,10 +228,10 @@
 			<value>0</value>
 			<value>0</value>
 		</item>
-		<average label="NCSS" value="23.0625"/>
+		<average label="NCSS" value="23.375"/>
 		<average label="CCN" value="1.5"/>
 		<average label="Functions" value="1.0625"/>
-		<sum label="NCSS" value="369"/>
+		<sum label="NCSS" value="374"/>
 		<sum label="CCN" value="24"/>
 		<sum label="Functions" value="17"/>
 		<average label="NCSS" value="6.0"/>

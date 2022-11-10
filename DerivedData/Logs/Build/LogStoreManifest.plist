@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>5D240BFB-7E6F-4C49-8AAA-E9359B4328DB</key>
+		<key>24E155FA-15F4-445A-AE94-7858F0AE670D</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>5D240BFB-7E6F-4C49-8AAA-E9359B4328DB.xcactivitylog</string>
+			<string>24E155FA-15F4-445A-AE94-7858F0AE670D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -30,15 +30,49 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
+			<string>Testing project CleanSecond with scheme CleanSecond</string>
+			<key>timeStartedRecording</key>
+			<real>689802825.01511598</real>
+			<key>timeStoppedRecording</key>
+			<real>689802827.61724699</real>
+			<key>title</key>
+			<string>Testing project CleanSecond with scheme CleanSecond</string>
+			<key>uniqueIdentifier</key>
+			<string>24E155FA-15F4-445A-AE94-7858F0AE670D</string>
+		</dict>
+		<key>3230A5BA-7E28-43A3-945C-7D71C9BA1799</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3230A5BA-7E28-43A3-945C-7D71C9BA1799.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CleanSecond project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CleanSecond</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
 			<string>Building project CleanSecond with scheme CleanSecond</string>
 			<key>timeStartedRecording</key>
-			<real>689666091.93287098</real>
+			<real>689802819.56150305</real>
 			<key>timeStoppedRecording</key>
-			<real>689666092.61042905</real>
+			<real>689802825.01385796</real>
 			<key>title</key>
 			<string>Building project CleanSecond with scheme CleanSecond</string>
 			<key>uniqueIdentifier</key>
-			<string>5D240BFB-7E6F-4C49-8AAA-E9359B4328DB</string>
+			<string>3230A5BA-7E28-43A3-945C-7D71C9BA1799</string>
 		</dict>
 		<key>90776348-B271-45BC-92CE-A25B4561E381</key>
 		<dict>
@@ -73,40 +107,6 @@
 			<string>Testing project CleanSecond with scheme CleanSecond</string>
 			<key>uniqueIdentifier</key>
 			<string>90776348-B271-45BC-92CE-A25B4561E381</string>
-		</dict>
-		<key>99678102-3C91-4C48-A9C3-C8A772F4272A</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>99678102-3C91-4C48-A9C3-C8A772F4272A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>CleanSecond project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>CleanSecond</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Testing project CleanSecond with scheme CleanSecond</string>
-			<key>timeStartedRecording</key>
-			<real>689665794.59798801</real>
-			<key>timeStoppedRecording</key>
-			<real>689665800.18704295</real>
-			<key>title</key>
-			<string>Testing project CleanSecond with scheme CleanSecond</string>
-			<key>uniqueIdentifier</key>
-			<string>99678102-3C91-4C48-A9C3-C8A772F4272A</string>
 		</dict>
 	</dict>
 </dict>
