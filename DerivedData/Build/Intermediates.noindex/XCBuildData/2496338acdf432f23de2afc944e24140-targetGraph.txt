@@ -1,6 +1,0 @@
-Target dependency graph (3 targets)
-CleanSecond in CleanSecond, no dependencies
-CleanSecondTests in CleanSecond, depends on:
-CleanSecond in CleanSecond (explicit)
-CleanSecondUITests in CleanSecond, depends on:
-CleanSecond in CleanSecond (explicit)

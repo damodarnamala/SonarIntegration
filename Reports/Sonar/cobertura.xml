@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.2517482517482518" branch-rate="0.3623188405797101" lines-covered="72" lines-valid="286" branches-covered="50" branches-valid="138" complexity="0.0" timestamp="1668110226" version="Slather 2.7.2">
+<coverage line-rate="0.2474226804123711" branch-rate="0.3571428571428572" lines-covered="72" lines-valid="291" branches-covered="50" branches-valid="140" complexity="0.0" timestamp="1668148753" version="Slather 2.7.2">
   <sources>
     <source>/Users/dnamala/Desktop/CleanSecond</source>
   </sources>
@@ -173,8 +173,26 @@
         </class>
       </classes>
     </package>
-    <package name="Source.Domain.Login" line-rate="0.0877192982456140" branch-rate="0.0967741935483871" complexity="0.0">
+    <package name="Source.Domain.Login" line-rate="0.0806451612903226" branch-rate="0.0909090909090909" complexity="0.0">
       <classes>
+        <class name="LoginUseCase" filename="Source/Domain/Login/LoginUseCase.swift" line-rate="0.0000000000000000" branch-rate="0.0000000000000000" complexity="0.0">
+          <methods/>
+          <lines>
+            <line number="6" branch="true" hits="0" condition-coverage="0% (0/1)">
+              <conditions>
+                <condition number="0" type="jump" coverage="0%"/>
+              </conditions>
+            </line>
+            <line number="7" branch="false" hits="0"/>
+            <line number="8" branch="false" hits="0"/>
+            <line number="9" branch="true" hits="0" condition-coverage="0% (0/1)">
+              <conditions>
+                <condition number="0" type="jump" coverage="0%"/>
+              </conditions>
+            </line>
+            <line number="10" branch="false" hits="0"/>
+          </lines>
+        </class>
         <class name="LoginUseCaseHandler" filename="Source/Domain/Login/LoginUseCaseHandler.swift" line-rate="0.1470588235294118" branch-rate="0.1666666666666667" complexity="0.0">
           <methods/>
           <lines>

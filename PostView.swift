@@ -15,10 +15,10 @@ struct PostView: View {
                 }
             }
         }.onAppear {
-            ///
-            /// Fething users on view loaded
-            ///
             viewModel.fetchPosts()
+            let isEligible = checkIsEligigibleForMarriage(User(name: "John", age: 34, isMarried: false, isIndian: true))
+            print(isEligible)
+
         }
     }
 }

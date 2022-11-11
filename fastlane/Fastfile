@@ -1,10 +1,22 @@
 default_platform(:ios)
 platform :ios do
   desc "Description of what the lane does"
-  lane :lizard_report do
-    lizard(source_folder: "./CleanSecond/Source/",
-           export_type: "html",
-           report_file: "./Reports/Lizard/Report.html")
+  lane :runLizard do
+    lizard(
+      source_folder: "Source",
+      language: "swift",
+      export_type: "html",
+      report_file: "Reports/Lizard/Report.html",
+      sorting:"cyclomatic_complexity"
+    )
+  end
+
+  lane :runSettings do
+    update_settings_bundle(
+      key: "Version",
+      value: ":version (:build)"
+    )
+    
   end
 
   lane :runlint do |options|
@@ -28,13 +40,24 @@ platform :ios do
       project: "CleanSecond.xcodeproj",
       scheme: "CleanSecond",
       configuration: "Debug",
-      source_directory: "./Source",
-      output_directory: "./Reports/XCov/",
+      source_directory: "Source",
+      output_directory: "Reports/XCov",
       html_report: true,
       markdown_report: true,
     }.freeze
     xcov(defaults.merge(options))
   end
+
+  lane :runDangerXCov do |options|
+    defaults = {
+      scheme: 'CleanSecond',
+      project: 'CleanSecond.xcodeproj',
+      # exclude_targets: 'Demo.app',
+      # minimum_coverage_percentage: 90
+    }.freeze
+    xcov(defaults.merge(options))
+  end
+
 
   lane :runMetrics do |options|
     scan(scheme: "CleanSecond",

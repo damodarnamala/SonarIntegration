@@ -1,13 +1,13 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "e0a2d8cba9524eb7e8a72e0ae797ed16835600c20736ea9d6f73ebf2134d71fa"
-build_start_time: [1668110021, 930084943]
-build_end_time: [1668110025, 6894111]
+build_start_time: [1668148594, 591017961]
+build_end_time: [1668148596, 578536987]
 inputs:
   "/Users/dnamala/Desktop/CleanSecond/CleanSecondApp.swift": [1668109592, 194794654]
   "/Users/dnamala/Desktop/CleanSecond/PostView.swift": [1668101664, 127151489]
   "/Users/dnamala/Desktop/CleanSecond/Source/Application/PostViewModel.swift": [1668095332, 945899248]
   "/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginEvent.swift": [1668106389, 666280031]
-  "/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCase.swift": [1668101879, 803564071]
+  "/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCase.swift": [1668148426, 652667522]
   "/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCaseHandler.swift": [1668109550, 998024463]
   "/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginViewModel.swift": [1668106481, 360157728]
   "/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostEvents.swift": [1668101633, 683713912]

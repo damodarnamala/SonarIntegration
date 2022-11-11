@@ -15,13 +15,21 @@ For _fastlane_ installation instructions, see [Installing _fastlane_](https://do
 
 ## iOS
 
-### ios lizard_report
+### ios runLizard
 
 ```sh
-[bundle exec] fastlane ios lizard_report
+[bundle exec] fastlane ios runLizard
 ```
 
 Description of what the lane does
+
+### ios runSettings
+
+```sh
+[bundle exec] fastlane ios runSettings
+```
+
+
 
 ### ios runlint
 
@@ -35,6 +43,14 @@ Description of what the lane does
 
 ```sh
 [bundle exec] fastlane ios runXCov
+```
+
+
+
+### ios runDangerXCov
+
+```sh
+[bundle exec] fastlane ios runDangerXCov
 ```
 
 

@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "0b004cb95e2f65349836a6be2c9429321e75d045f7e2c88576bac7615a62e27f"
-build_start_time: [1668110025, 406127929]
-build_end_time: [1668110027, 614649057]
+build_start_time: [1668146507, 292016983]
+build_end_time: [1668146512, 895442962]
 inputs:
   "/Users/dnamala/Desktop/CleanSecond/CleanSecondUITests/CleanSecondUITests.swift": [1668101670, 230989217]
   "/Users/dnamala/Desktop/CleanSecond/CleanSecondUITests/CleanSecondUITestsLaunchTests.swift": [1668101672, 960045099]
