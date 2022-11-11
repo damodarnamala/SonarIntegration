@@ -1,9 +1,4 @@
-//
-//  BackButton.swift
-//  CleanSecond
-//
-//  Created by Damodar Namala on 11/11/22.
-//
+
 
 import SwiftUI
 
