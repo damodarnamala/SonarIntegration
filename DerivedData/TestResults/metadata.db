@@ -13,17 +13,17 @@
 				<key>testOfflineData</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0022259950637817383</real>
+					<real>0.0030369758605957031</real>
 				</dict>
 				<key>testOnlineData</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.0014261007308959961</real>
+					<real>0.0018759965896606445</real>
 				</dict>
 				<key>testPerformanceExample</key>
 				<dict>
 					<key>mrnet</key>
-					<real>0.36376500129699707</real>
+					<real>0.38152205944061279</real>
 				</dict>
 			</dict>
 		</dict>
@@ -34,12 +34,12 @@
 				<key>testExample</key>
 				<dict>
 					<key>mrnet</key>
-					<real>3.1176600456237793</real>
+					<real>4.0481890439987183</real>
 				</dict>
 				<key>testLaunchPerformance</key>
 				<dict>
 					<key>mrnet</key>
-					<real>77.387022018432617</real>
+					<real>79.264212965965271</real>
 				</dict>
 			</dict>
 			<key>CleanSecondUITestsLaunchTests</key>
@@ -47,7 +47,7 @@
 				<key>testLaunch</key>
 				<dict>
 					<key>mrnet</key>
-					<real>5.5830479860305786</real>
+					<real>6.1189949512481689</real>
 				</dict>
 			</dict>
 		</dict>

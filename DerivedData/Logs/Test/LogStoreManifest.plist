@@ -51,14 +51,14 @@
 			<key>uniqueIdentifier</key>
 			<string>173E9D74-C6C8-4C68-AD79-60D40DCE8BD5</string>
 		</dict>
-		<key>B7FBA981-5370-4A81-B181-46BAB72927BC</key>
+		<key>A70439F8-B5AE-4486-B047-0F18169EFEFA</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>09522CD1-296F-42F1-84A9-64E5727DC242</string>
+			<string>7FFE4A54-E7A2-4382-A611-8387777B0575</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -67,7 +67,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.unit.cocoaUnitTest</string>
 			<key>fileName</key>
-			<string>Run-CleanSecond-2022.11.11_11-36-53-+0530.xcresult</string>
+			<string>Run-CleanSecond-2022.11.11_12-14-51-+0530.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasCoverageData</key>
@@ -77,7 +77,7 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>CleanSecond project</string>
@@ -88,13 +88,13 @@
 			<key>signature</key>
 			<string>Run CleanSecond</string>
 			<key>timeStartedRecording</key>
-			<real>689839613.988994</real>
+			<real>689841891.67618406</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run CleanSecond</string>
 			<key>uniqueIdentifier</key>
-			<string>B7FBA981-5370-4A81-B181-46BAB72927BC</string>
+			<string>A70439F8-B5AE-4486-B047-0F18169EFEFA</string>
 		</dict>
 	</dict>
 </dict>

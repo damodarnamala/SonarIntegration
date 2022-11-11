@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "d67d3ae9b242f39587a0b32c216bf4a7d76024c667641b5a85388c469844e339"
-build_start_time: [1668148597, 179833889]
-build_end_time: [1668148597, 940000057]
+build_start_time: [1668149094, 535448074]
+build_end_time: [1668149095, 285480976]
 inputs:
   "/Users/dnamala/Desktop/CleanSecond/CleanSecondTests/PostViewModelSpec.swift": [1668101619, 141529560]
