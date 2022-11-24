@@ -1,10 +1,10 @@
 version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
 options: "e0a2d8cba9524eb7e8a72e0ae797ed16835600c20736ea9d6f73ebf2134d71fa"
-build_start_time: [1668149091, 977946996]
-build_end_time: [1668149093, 923346996]
+build_start_time: [1669276049, 51285982]
+build_end_time: [1669276051, 440611839]
 inputs:
   "/Users/dnamala/Desktop/CleanSecond/CleanSecondApp.swift": [1668109592, 194794654]
-  "/Users/dnamala/Desktop/CleanSecond/PostView.swift": [1668148988, 908497810]
+  "/Users/dnamala/Desktop/CleanSecond/PostView.swift": [1668155046, 368322372]
   "/Users/dnamala/Desktop/CleanSecond/Source/Application/PostViewModel.swift": [1668095332, 945899248]
   "/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginEvent.swift": [1668106389, 666280031]
   "/Users/dnamala/Desktop/CleanSecond/Source/Domain/Login/LoginUseCase.swift": [1668148868, 762169837]
@@ -14,10 +14,10 @@ inputs:
   "/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostUseCaseHandler.swift": [1668101627, 849793910]
   "/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostsState.swift": [1668101623, 916090011]
   "/Users/dnamala/Desktop/CleanSecond/Source/Domain/PostsUseCase.swift": [1668101630, 876211166]
-  "/Users/dnamala/Desktop/CleanSecond/Source/Views/Common/BackButton.swift": [1668108437, 101857662]
-  "/Users/dnamala/Desktop/CleanSecond/Source/Views/Common/InputField.swift": [1668101090, 58065891]
-  "/Users/dnamala/Desktop/CleanSecond/Source/Views/Common/PrimaryButton.swift": [1668101034, 474845886]
-  "/Users/dnamala/Desktop/CleanSecond/Source/Views/Common/SecondaryButton.swift": [1668105370, 280969381]
+  "/Users/dnamala/Desktop/CleanSecond/Source/Views/Common/BackButton.swift": [1668157332, 200585126]
+  "/Users/dnamala/Desktop/CleanSecond/Source/Views/Common/InputField.swift": [1668157332, 213944435]
+  "/Users/dnamala/Desktop/CleanSecond/Source/Views/Common/PrimaryButton.swift": [1668157332, 185420989]
+  "/Users/dnamala/Desktop/CleanSecond/Source/Views/Common/SecondaryButton.swift": [1668155246, 948181867]
   "/Users/dnamala/Desktop/CleanSecond/Source/Views/Login/LoginView.swift": [1668107253, 551595211]
   "/Users/dnamala/Desktop/CleanSecond/Source/Views/LoginHelp/LoginHelpView.swift": [1668108521, 501991987]
   "/Users/dnamala/Desktop/CleanSecond/Source/Views/Register/RegiterView.swift": [1668109514, 72161674]
