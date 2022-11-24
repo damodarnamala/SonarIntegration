@@ -1,0 +1,76 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "7c2a9bcd5c91d1b3341a93cd9a4c8e9ce1dfd1c8ff28e00ac29d87e7dc5d4ffe"
+    },
+    {
+      "guid" : "7c2a9bcd5c91d1b3341a93cd9a4c8e9c7e8a7dabdd29d32e24663cb5169cd9ed"
+    },
+    {
+      "guid" : "7c2a9bcd5c91d1b3341a93cd9a4c8e9c33bd85346b661c18703b905b833c59b3"
+    }
+  ],
+  "containerPath" : "/Users/dnamala/Desktop/CleanSecond/CleanSecond.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.1",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/dnamala/Desktop/CleanSecond/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/dnamala/Desktop/CleanSecond/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/dnamala/Desktop/CleanSecond/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/dnamala/Desktop/CleanSecond/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/dnamala/Desktop/CleanSecond/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/dnamala/Desktop/CleanSecond/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/dnamala/Desktop/CleanSecond/DerivedData/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "622A4A98-4409-4678-8FCA-B12F89835E2B",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

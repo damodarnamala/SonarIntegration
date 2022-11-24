@@ -28,7 +28,10 @@ platform :ios do
   end
 
   desc "Running `XCov`"
+
   lane :runXCov do |options|
+    sh('rm -r "../Reports/XCov"')
+
     defaults = {
       project: "CleanSecond.xcodeproj",
       scheme: "CleanSecond",
@@ -36,8 +39,8 @@ platform :ios do
       source_directory: "Source",
       output_directory: "Reports/XCov",
       html_report: true,
-      markdown_report: true,
     }.freeze
+
     xcov(defaults.merge(options))
   end
 
@@ -59,4 +62,5 @@ platform :ios do
               ignore_exit_status: true)
     sonar
   end
+
 end
